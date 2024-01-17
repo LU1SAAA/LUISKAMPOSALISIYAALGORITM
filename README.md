@@ -9,5 +9,5 @@ https://docs.google.com/presentation/d/1JL98ZpXA96Ypz5ieKE5Zpoy_AGCI0mllz_RMFOVC
 https://freelance.habr.com/freelancers/alisiya-lk
 ## практика:
 https://drive.google.com/drive/folders/1ukPQrhwBm3eIfCg3LwuNLXpHBlREIirL
-##гугл колаб:
+## гугл колаб:
 https://colab.research.google.com/drive/1YKNIdWee3zEIAO14c7SW9nDJCcTxLzrr?usp=sharing
