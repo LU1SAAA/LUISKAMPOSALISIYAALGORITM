@@ -15,3 +15,4 @@ https://colab.research.google.com/drive/1YKNIdWee3zEIAO14c7SW9nDJCcTxLzrr?usp=sh
 ![image](https://github.com/LU1SAAA/LUISKAMPOSALISIYAALGORITM/assets/144117524/39df85ce-6bdf-4770-bc5a-45466db3ba6a)
 ## Код будущего
 https://drive.google.com/drive/folders/1EZru7uV_HitXeTBhwbpo_P7MrolKK7bV?usp=sharing
+![image](https://github.com/LU1SAAA/LUISKAMPOSALISIYAALGORITM/assets/144117524/5a2cdae5-9c60-4ba4-8914-3ceba664ea00)
