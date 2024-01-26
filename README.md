@@ -13,3 +13,5 @@ https://drive.google.com/drive/folders/1ukPQrhwBm3eIfCg3LwuNLXpHBlREIirL
 https://colab.research.google.com/drive/1YKNIdWee3zEIAO14c7SW9nDJCcTxLzrr?usp=sharing
 ![image](https://github.com/LU1SAAA/LUISKAMPOSALISIYAALGORITM/assets/144117524/24902446-4290-47cb-a796-e0dbfda103f6)
 ![image](https://github.com/LU1SAAA/LUISKAMPOSALISIYAALGORITM/assets/144117524/39df85ce-6bdf-4770-bc5a-45466db3ba6a)
+## Код будущего
+https://drive.google.com/drive/folders/1EZru7uV_HitXeTBhwbpo_P7MrolKK7bV?usp=sharing
